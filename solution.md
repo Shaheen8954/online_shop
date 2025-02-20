@@ -2,11 +2,8 @@
 
 ## Overveiw
 
-  Where there is a will, there is a way after so many ups and downs and lots of failires finally i have succeeded to clear level 1.
- 
-# . Git&Github
-# . Linux
-# . Docker
+
+  i am a student of bach 9 junoon. After so many practice and resolving errors, finally i have successfully completed this hackathon. During this phase 1 i learned about Linux, Networkiing, Git&Github and Docker.
 
 
 ## Setup & Usage
