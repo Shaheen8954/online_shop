@@ -32,9 +32,7 @@ pipeline {
         stage('Build image') {
             steps {
                 script {
-                    dir('frontend') {
-                        dockerbuild(env.DockerHubUser, 'online-shop2', env.ImageTag)
-                    }
+                    dockerbuild(env.DockerHubUser, 'online_shop', env.ImageTag)
                 }
             }
         }
